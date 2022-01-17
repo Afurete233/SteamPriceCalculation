@@ -21,7 +21,9 @@
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys3.png)
  
 **V3.0**
+
 可能存在的bug于是我保留此版本。
+
 需要手动把游戏id复制到剪贴板上，软件就会自动计算价格
 
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys2.png)
