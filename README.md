@@ -15,9 +15,24 @@
 
 **V3.1**
 
+打开你需要购买游戏的界面，然后按下F4就可以获取到卡片价格(可能会有些BUG....
 
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys3.png)
  
- 
+**V3.0**
+可能存在的bug于是我保留此版本。
+需要手动把游戏id复制到剪贴板上，软件就会自动计算价格
+
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys2.png)
+
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys4.png)
+
+
+
+
+
+
+
 
 
 
