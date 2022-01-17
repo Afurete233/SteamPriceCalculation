@@ -1,8 +1,10 @@
 # SteamPriceCalculation
 
+## 这是一个自动判断Steam卡片价格的软件，判断是否可以回本
 
 
-这是一个自动判断Steam卡片价格的软件，判断是否可以回本
+
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys1.png)
 
 
 
@@ -11,7 +13,9 @@
 
 目前更新保留了两个版本
 
-V3.1
+**V3.1**
+
+
  
  
 
