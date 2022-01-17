@@ -2,6 +2,7 @@
 
 ## 这是一个自动判断Steam卡片价格的软件，判断是否可以回本
 
+支持阿根廷和俄罗斯(因为也就这两个可以回本.....
 
 
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys1.png)
