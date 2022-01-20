@@ -50,7 +50,7 @@ def main():
         time.sleep(0.2)
         if keyboard.is_pressed('F4'):
             print("\n价格判断中.....")
-            time.sleep(0.2)
+            time.sleep(0.6)
             k = PyKeyboard()
             k.press_key(k.alt_key) # 按下
             k.tap_key('d') # 按下
