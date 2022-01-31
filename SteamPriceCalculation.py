@@ -59,17 +59,23 @@ def main():
             k.press_key(k.control_key)
             k.tap_key('c')
             k.release_key(k.control_key)
-            Surl= pyperclip.paste().replace('https://store.steampowered.com/app/','').split('/')
+            urlget_str= pyperclip.paste()
+            # print(urlget_str)
+            Surl= urlget_str.replace('https://store.steampowered.com/app/','').split('/')
             numid =  Surl[0]
             if(len(numid)>3):
                 try:
                     int(numid)
                     break
                 except ValueError:
-                    print("获取错误请重新尝试.....")
+                    print("获取错误请重新尝试1.....")
                     numid = 0
+                    pyperclip.copy('0')
             else:
-                print("获取错误请重新尝试.....")
+                print("获取错误请重新尝试2.....")
+                numid = 0
+                pyperclip.copy('0')
+                
     # numid = input('请输入游戏id\n').replace(" ","")
 
 
