@@ -14,9 +14,9 @@
 
 目前更新保留了两个版本
 
-**V3.1**
+**V3.1.1**
 
-打开你需要购买游戏的界面，然后按下F4就可以获取到卡片价格(可能会有些BUG....
+打开你需要购买游戏的界面，然后按下F4就可以获取到卡片价格<del> (可能会有些BUG....</del> 
 
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys3.png)
  
