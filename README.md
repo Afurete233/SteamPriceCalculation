@@ -17,11 +17,13 @@
 修复了上版本F4获取到卡片价格的一些BUG
 新增了自动模式
 
+
 自动模式：
 
 自动模式下在你已经打开了多个界面窗口的情况下，进行筛选，默认为回本价格>=1时进行保留
 按下F4之后会自动进行筛选
 
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/auto.mp4)
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys5.png)
 
 
