@@ -23,7 +23,8 @@
 自动模式下在你已经打开了多个界面窗口的情况下，进行筛选，默认为回本价格>=1时进行保留
 按下F4之后会自动进行筛选
 
-![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/auto.mp4)
+<iframe src='//gifs.com/embed/auto-oZP28N' frameborder='0' scrolling='no' width='440' height='400' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys5.png)
 
 
