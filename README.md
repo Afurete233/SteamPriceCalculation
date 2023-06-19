@@ -5,6 +5,20 @@
 支持阿根廷和俄罗斯(因为也就这两个可以回本.....
 
 
+## 现在已经更新成网页脚本
+
+
+
+
+
+![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/web1.png)
+
+
+
+
+
+
+
 ![](https://github.com/Afurete233/SteamPriceCalculation/blob/main/img/ys1.png)
 
 
